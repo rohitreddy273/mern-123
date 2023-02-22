@@ -1,6 +1,6 @@
 {
-  "name": "project",
-  "version": "0.1.0",
+  "name": "mern-123",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
@@ -93,3 +93,4 @@
   "license": "ISC",
   "proxy": "http://localhost:5000/"
 }
+"homepage": "https://github.com/rohitreddy273/mern-123#readme"
